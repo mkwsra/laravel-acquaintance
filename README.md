@@ -2,7 +2,7 @@
 
 _Please note this package is **totally working fine**, still needs documentation and tests thu!_
 
- [![Total Downloads](https://img.shields.io/packagist/dt/laravelme/laravel-acquaintances.svg?style=flat)](https://packagist.org/packages/laravelme/laravel-acquaintances) [![Version](https://img.shields.io/packagist/v/laravelme/laravel-acquaintances.svg?style=flat)](https://packagist.org/packages/laravelme/laravel-acquaintances) [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE)
+ [![Total Downloads](https://img.shields.io/packagist/dt/laravelme/laravel-acquaintances.svg?style=flat)](https://packagist.org/packages/laravelme/laravel-acquaintance) [![Version](https://img.shields.io/packagist/v/laravelme/laravel-acquaintances.svg?style=flat)](https://packagist.org/packages/laravelme/laravel-acquaintance) [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE)
 
 
 This package gives Eloquent models the ability to manage their acquaintances.
