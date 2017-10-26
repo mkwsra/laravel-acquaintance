@@ -27,6 +27,12 @@ First, install the package through Composer.
 composer require laravelme/laravel-acquaintances
 ```
 
+### Laravel 5.5 and up
+
+You don't have to do anything else, this package uses the Package Auto-Discovery feature, and should be available as soon as you install it via Composer.
+
+### Laravel 5.4 and down
+
 Then include the service provider inside `config/app.php`.
 
 ```php
@@ -36,6 +42,7 @@ Then include the service provider inside `config/app.php`.
     ...
 ];
 ```
+
 Publish config and migrations
 
 ```
@@ -73,5 +80,5 @@ class User extends Model
 ## Contributing
 See the [CONTRIBUTING](CONTRIBUTING.md) guide.
 
-Basically this package is a collective work of following libraries, so the credits are to [laravel-friendships](https://github.com/hootlex/laravel-friendships) 
+Basically this package is a collective work of following libraries, so the credits are to [laravel-friendships](https://github.com/hootlex/laravel-friendships)
 & [laravel-follow](https://github.com/overtrue/laravel-follow).
